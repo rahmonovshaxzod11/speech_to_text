@@ -1,4 +1,4 @@
-﻿streamlit==1.32.2
 PyAudio==0.2.14
 pyrebase4==4.7.1
 requests==2.31.0
+streamlit==1.32.2
